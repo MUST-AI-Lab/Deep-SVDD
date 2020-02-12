@@ -4,9 +4,21 @@
 3. Batchsize，Focal 超参一定，要pretrain和不要，每个类的结果变化的区别 （结果：
 
 
-*1. Focal loss， batchsize 一定，每个类的结果变化
+*1. Focal 超参一定，改变batchsize ，每个类的结果变化
 
     只完成了 0 类  和  7 类
+    
 
-    ![class 0](https://github.com/MUST-AI-Lab/Deep-SVDD/blob/master/imgs/class7.jpg)
 ![Alt text](https://github.com/MUST-AI-Lab/Deep-SVDD/blob/master/imgs/class7.jpg)
+
+
+
+*3. Batchsize，Focal 超参一定，要pretrain和不要，每个类的结果变化的区别
+
+    0, 1, 9 类，没有pre train 效果比用autoencoder 预训练好
+    其余类相反。
+    
+
+![Alt text](https://github.com/MUST-AI-Lab/Deep-SVDD/blob/master/imgs/no%20pretrain.jpg)
+
+

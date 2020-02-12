@@ -20,7 +20,7 @@
 
 
 
-/</br>
+</br></br></br></br></br></br>
 *3. Batchsize，Focal 超参一定，要pretrain和不要，每个类的结果变化的区别
 
     0, 1, 9 类，没有pre train 效果比用autoencoder 预训练好

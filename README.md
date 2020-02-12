@@ -5,5 +5,7 @@
 
 
 *1. Focal loss， batchsize 一定，每个类的结果变化
+
     只完成了 0 类  和  7 类
-    
+
+    ![class 0](/imgs/class0.jpg)

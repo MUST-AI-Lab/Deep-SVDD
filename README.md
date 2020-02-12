@@ -8,4 +8,4 @@
 
     只完成了 0 类  和  7 类
 
-    ![class 0](/imgs/class0.jpg)
+    ![class 0](blob/master/imgs/class7.jpg)

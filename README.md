@@ -9,7 +9,15 @@
     只完成了 0 类  和  7 类
     
 
+![Alt text](https://github.com/MUST-AI-Lab/Deep-SVDD/blob/master/imgs/class0.jpg)
+
 ![Alt text](https://github.com/MUST-AI-Lab/Deep-SVDD/blob/master/imgs/class7.jpg)
+
+
+
+
+
+
 
 
 
@@ -21,4 +29,4 @@
 
 ![Alt text](https://github.com/MUST-AI-Lab/Deep-SVDD/blob/master/imgs/no%20pretrain.jpg)
 
-
+![Alt text](https://github.com/MUST-AI-Lab/Deep-SVDD/blob/master/imgs/no.png)
